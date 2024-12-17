@@ -80,7 +80,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 src/
 ├── app/                    # Next.js app directory
 │   ├── (auth)/            # Authentication routes (login/register)
-│   ├── (main)/            # Main application routes
 │   └── profile/           # Profile management routes
 ├── lib/                   # Shared utilities
 │   ├── actions/           # Server actions
